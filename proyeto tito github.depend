@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534546020 source:c:\users\fabi\desktop\proyeto tito github\main.c
+	<stdio.h>
+	<stdlib.h>
+
